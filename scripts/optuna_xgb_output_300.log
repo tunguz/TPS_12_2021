@@ -1,0 +1,9 @@
+A new study created in RDB with name: dec_2021_test_100_2
+Start optimization.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 211.5574357509613 secs between node start and job finish
+Trial 0 finished with value: 0.94590875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.997991664930194, 'alpha': 0.0012997167355824006, 'colsample_bytree': 0.5220366153821432, 'subsample': 0.55599863004135, 'learning_rate': 0.004254306107885567, 'max_depth': 17, 'min_child_weight': 184, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.94590875.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started

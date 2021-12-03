@@ -15,7 +15,7 @@ import logging
 
 num_round = 1000
 
-def objective(trial):
+def objective(client, dtrain, dtest, test_y, trial):
         
     params = {
         'objective': trial.suggest_categorical('objective',['multi:softprob']), 
@@ -71,7 +71,7 @@ def main():
         optuna.logging.enable_propagation()  # Propagate logs to the root logger.
         optuna.logging.disable_default_handler()  # Stop showing logs in sys.stderr.
 
-        study = optuna.create_study(direction='maximize', storage="sqlite:///xgb_optuna_tests.db", study_name="dec_2021_test_1")
+        study = optuna.create_study(direction='maximize', storage="sqlite:///xgb_optuna_tests.db", study_name="dec_2021_test_100_2")
         logger.info("Start optimization.")
         study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=300)
         
