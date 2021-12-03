@@ -1,0 +1,3 @@
+number,value,params_alpha,params_colsample_bytree,params_eval_metric,params_lambda,params_learning_rate,params_max_depth,params_min_child_weight,params_num_class,params_objective,params_subsample,params_tree_method,state
+0,0.9286275,0.45547901897758103,0.48583325031263813,mlogloss,0.0010543052269471405,0.006099803484563795,5,104,6,multi:softprob,0.5898352473849167,gpu_hist,COMPLETE
+1,0.96010375,0.334371331440923,0.7517901383752162,mlogloss,0.0017170221867173663,0.009002123522299416,15,78,6,multi:softprob,0.7483524229625753,gpu_hist,COMPLETE
