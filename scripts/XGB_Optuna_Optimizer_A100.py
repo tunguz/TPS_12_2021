@@ -66,7 +66,7 @@ def main():
 
         logger = logging.getLogger()
         logger.setLevel(logging.INFO)  # Setup the root logger.
-        logger.addHandler(logging.FileHandler("optuna_xgb_output_100.log", mode="w"))
+        logger.addHandler(logging.FileHandler("optuna_xgb_output_100_2.log", mode="w"))
 
         optuna.logging.enable_propagation()  # Propagate logs to the root logger.
         optuna.logging.disable_default_handler()  # Stop showing logs in sys.stderr.
