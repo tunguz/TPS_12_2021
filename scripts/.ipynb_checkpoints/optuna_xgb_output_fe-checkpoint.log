@@ -1,0 +1,17 @@
+A new study created in RDB with name: dec_2021_fe_test_0
+Start optimization.
+start listen on 10.110.42.38:9091
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+@tracker 489.17553901672363 secs between node start and job finish
+Trial 0 finished with value: 0.9568925 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.7796559409677352, 'alpha': 0.15475307808219427, 'colsample_bytree': 0.9387488761332554, 'subsample': 0.48302751274853584, 'learning_rate': 0.0014483018582902817, 'max_depth': 20, 'min_child_weight': 73, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.9568925.
+start listen on 10.110.42.38:9091
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+@tracker 20.61583638191223 secs between node start and job finish
+Trial 1 finished with value: 0.9532975 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 8.650397171223046, 'alpha': 0.030680752104306205, 'colsample_bytree': 0.40686041977821025, 'subsample': 0.738624588381732, 'learning_rate': 0.050611495612197105, 'max_depth': 3, 'min_child_weight': 59, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.9568925.
+start listen on 10.110.42.38:9091
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+@tracker 33.2975811958313 secs between node start and job finish
+Trial 2 finished with value: 0.92948 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.010652563863179478, 'alpha': 0.0019162918613642623, 'colsample_bytree': 0.8682432075707367, 'subsample': 0.45907142558209024, 'learning_rate': 0.0013336534594400968, 'max_depth': 5, 'min_child_weight': 32, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.9568925.
