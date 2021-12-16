@@ -110,7 +110,7 @@ def main():
 
         study = optuna.load_study(storage="sqlite:///xgb_optuna_tests_fe.db", study_name="dec_2021_fe_test_0")
         logger.info("Start optimization.")
-        study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=3)
+        study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=150)
         
     df = study.trials_dataframe(attrs=('number', 'value', 'params', 'state'))
     df.to_csv('optuna_xgb_fe_output.csv', index=False)
