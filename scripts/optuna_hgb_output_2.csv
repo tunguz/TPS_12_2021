@@ -1,0 +1,3 @@
+number,value,params_early_stopping,params_l2_regularization,params_learning_rate,params_max_bins,params_max_depth,params_max_iter,params_max_leaf_nodes,params_min_samples_leaf,state
+0,0.95010875,False,0.005615559141266863,0.0038566857832962424,112,17,1000,64,22051,COMPLETE
+1,0.9398525,False,1.5037302982521237,0.00999300594801547,115,24,1000,40,89916,COMPLETE

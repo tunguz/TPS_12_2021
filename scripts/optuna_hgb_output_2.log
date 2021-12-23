@@ -1,0 +1,7 @@
+A new study created in RDB with name: dec_2021_test_2_8
+Start optimization.
+Trial 0 finished with value: 0.95010875 and parameters: {'l2_regularization': 0.005615559141266863, 'early_stopping': 'False', 'learning_rate': 0.0038566857832962424, 'max_iter': 1000, 'max_depth': 17, 'max_bins': 112, 'min_samples_leaf': 22051, 'max_leaf_nodes': 64}. Best is trial 0 with value: 0.95010875.
+Trial 1 finished with value: 0.9398525 and parameters: {'l2_regularization': 1.5037302982521237, 'early_stopping': 'False', 'learning_rate': 0.00999300594801547, 'max_iter': 1000, 'max_depth': 24, 'max_bins': 115, 'min_samples_leaf': 89916, 'max_leaf_nodes': 40}. Best is trial 0 with value: 0.95010875.
+Start optimization.
+Trial 2 finished with value: 0.93765 and parameters: {'l2_regularization': 1.4375648311960128e-09, 'early_stopping': 'False', 'learning_rate': 0.004745475728065362, 'max_iter': 1000, 'max_depth': 13, 'max_bins': 217, 'min_samples_leaf': 71714, 'max_leaf_nodes': 36}. Best is trial 0 with value: 0.95010875.
+Trial 3 finished with value: 0.94905 and parameters: {'l2_regularization': 6.570548612901524e-07, 'early_stopping': 'False', 'learning_rate': 0.002343417876144369, 'max_iter': 1000, 'max_depth': 30, 'max_bins': 243, 'min_samples_leaf': 10636, 'max_leaf_nodes': 79}. Best is trial 0 with value: 0.95010875.
