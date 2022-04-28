@@ -1,0 +1,5 @@
+Start optimization.
+start listen on 192.168.1.101:36311
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 0.96088375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 7.0740724192469715, 'alpha': 0.11458986984913083, 'colsample_bytree': 0.3736844461649976, 'subsample': 0.7349698192415873, 'learning_rate': 0.05420658872043731, 'max_depth': 15, 'min_child_weight': 196, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.96088375.

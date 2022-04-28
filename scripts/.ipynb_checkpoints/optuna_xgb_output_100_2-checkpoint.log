@@ -1,0 +1,2 @@
+Task was destroyed but it is pending!
+task: <Task pending name='Task-59690' coro=<Cluster._sync_cluster_info() running at /home/btunguz/.local/lib/python3.8/site-packages/distributed/deploy/cluster.py:99> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fb9884c0370>()]> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]>

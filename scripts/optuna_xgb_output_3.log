@@ -1,0 +1,14 @@
+A new study created in RDB with name: dec_2021_test_3
+Start optimization.
+start listen on 192.168.1.101:45453
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 0.96180625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.181250567024118, 'alpha': 0.20628776755660055, 'colsample_bytree': 0.7499630795243724, 'subsample': 0.9491655688892713, 'learning_rate': 0.0789449490641637, 'max_depth': 13, 'min_child_weight': 97, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.96180625.
+start listen on 192.168.1.101:47043
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 0.96149125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0014422366743234733, 'alpha': 0.03320730885003181, 'colsample_bytree': 0.543528666613286, 'subsample': 0.7503321706078625, 'learning_rate': 0.08516801434814059, 'max_depth': 20, 'min_child_weight': 222, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.96180625.
+start listen on 192.168.1.101:57867
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+Trial 2 finished with value: 0.95735375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.7153787228478984, 'alpha': 5.04536232278341, 'colsample_bytree': 0.3562137316998734, 'subsample': 0.9822349396507758, 'learning_rate': 0.017473111393604253, 'max_depth': 20, 'min_child_weight': 148, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.96180625.
