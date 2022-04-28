@@ -15,7 +15,7 @@ import logging
 
 num_round = 1000
 
-def objective(trial):
+def objective(client, dtrain, dtest, test_y, trial):
         
     params = {
         'objective': trial.suggest_categorical('objective',['multi:softprob']), 
@@ -59,24 +59,24 @@ def main():
     test_y = test_x['target'] - 1
     test_x = test_x[test_x.columns.difference(['target'])]
 
-    with LocalCUDACluster(n_workers=4) as cluster:
+    with LocalCUDACluster(CUDA_VISIBLE_DEVICES=["GPU-a19c00c3-2832-fe38-1c43-c18db3e909da", "GPU-58b97c92-e879-49d3-85b5-1d9615f10873", "GPU-d21cfed4-2e1a-f313-839c-ea008aca027a", "GPU-e3b349d7-ac6c-77ab-3564-ed9d05d50bac"]) as cluster:
         client = Client(cluster)
         dtrain = xgb.dask.DaskDMatrix(client, train_x, train_y)
         dtest = xgb.dask.DaskDMatrix(client, test_x, test_y)
 
         logger = logging.getLogger()
         logger.setLevel(logging.INFO)  # Setup the root logger.
-        logger.addHandler(logging.FileHandler("optuna_xgb_output_300.log", mode="w"))
+        logger.addHandler(logging.FileHandler("optuna_xgb_output_1.log", mode="w"))
 
         optuna.logging.enable_propagation()  # Propagate logs to the root logger.
         optuna.logging.disable_default_handler()  # Stop showing logs in sys.stderr.
 
-        study = optuna.create_study(direction='maximize', storage="sqlite:///xgb_optuna_tests.db", study_name="dec_2021_test_1")
+        study = optuna.load_study(storage="sqlite:///xgb_optuna_tests.db", study_name="dec_2021_test_1")
         logger.info("Start optimization.")
-        study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=300)
+        study.optimize(lambda trial: objective(client, dtrain, dtest, test_y, trial), n_trials=1)
         
     df = study.trials_dataframe(attrs=('number', 'value', 'params', 'state'))
-    df.to_csv('optuna_xgb_output_300.csv', index=False)
+    df.to_csv('optuna_xgb_output_1.csv', index=False)
 
 if __name__ == "__main__":
     main()

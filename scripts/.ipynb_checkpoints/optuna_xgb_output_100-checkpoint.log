@@ -1,0 +1,501 @@
+Start optimization.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 430.64544200897217 secs between node start and job finish
+Trial 8 finished with value: 0.92510125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.038191381005930884, 'alpha': 0.05062446210568234, 'colsample_bytree': 0.5437952662902598, 'subsample': 0.8743947028834211, 'learning_rate': 0.0011200861348258397, 'max_depth': 11, 'min_child_weight': 4, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 294.57973527908325 secs between node start and job finish
+Trial 9 finished with value: 0.96132125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0026971738191549593, 'alpha': 0.47571599706692574, 'colsample_bytree': 0.6150777754004519, 'subsample': 0.8999043267794977, 'learning_rate': 0.019011138618420513, 'max_depth': 20, 'min_child_weight': 145, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 33.02612519264221 secs between node start and job finish
+Trial 10 finished with value: 0.9490625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0022232043841404064, 'alpha': 0.004088513646931925, 'colsample_bytree': 0.624733937826449, 'subsample': 0.9471920785131612, 'learning_rate': 0.013767419301578519, 'max_depth': 5, 'min_child_weight': 74, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 64.9282112121582 secs between node start and job finish
+Trial 11 finished with value: 0.96043375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.43203411762197064, 'alpha': 7.0015976510767235, 'colsample_bytree': 0.9935713732117746, 'subsample': 0.4792196918795575, 'learning_rate': 0.028892632480935408, 'max_depth': 13, 'min_child_weight': 280, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 112.53974914550781 secs between node start and job finish
+Trial 12 finished with value: 0.96151375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0010685897010474048, 'alpha': 0.6788538043065628, 'colsample_bytree': 0.8329932419236243, 'subsample': 0.4260696218051805, 'learning_rate': 0.03802093229753771, 'max_depth': 13, 'min_child_weight': 72, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 99.20900368690491 secs between node start and job finish
+Trial 13 finished with value: 0.96139 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.001015468159144359, 'alpha': 1.2494598010369709, 'colsample_bytree': 0.9644561025708218, 'subsample': 0.40507241033836616, 'learning_rate': 0.0339272184473748, 'max_depth': 13, 'min_child_weight': 87, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 118.36125707626343 secs between node start and job finish
+Trial 14 finished with value: 0.96175375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0010258474305298525, 'alpha': 0.7527340347822574, 'colsample_bytree': 0.8436981731053387, 'subsample': 0.6618203491787799, 'learning_rate': 0.03604827493394751, 'max_depth': 13, 'min_child_weight': 95, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 47.18891477584839 secs between node start and job finish
+Trial 15 finished with value: 0.95297875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.017413689114912093, 'alpha': 5.1956810007991265, 'colsample_bytree': 0.8795835324824081, 'subsample': 0.6843490496113975, 'learning_rate': 0.008494683152679679, 'max_depth': 7, 'min_child_weight': 117, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 491.6442003250122 secs between node start and job finish
+Trial 16 finished with value: 0.95365125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.8871754609825055, 'alpha': 0.1581804230609472, 'colsample_bytree': 0.713557930645529, 'subsample': 0.6152861131608574, 'learning_rate': 0.0028385576923282796, 'max_depth': 15, 'min_child_weight': 38, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 111.57932186126709 secs between node start and job finish
+Trial 17 finished with value: 0.9617875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.06568283184062171, 'alpha': 2.34411195572544, 'colsample_bytree': 0.9146158285355763, 'subsample': 0.7988319155251338, 'learning_rate': 0.045637400019525494, 'max_depth': 13, 'min_child_weight': 112, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 89.84269857406616 secs between node start and job finish
+Trial 18 finished with value: 0.96050625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.7230943818304914, 'alpha': 0.0010170147144059332, 'colsample_bytree': 0.9215182146838713, 'subsample': 0.7691269423164462, 'learning_rate': 0.019217217474033852, 'max_depth': 13, 'min_child_weight': 288, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 96.34981393814087 secs between node start and job finish
+Trial 19 finished with value: 0.96166875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.11859788867556718, 'alpha': 2.4057309779957516, 'colsample_bytree': 0.7172306397949949, 'subsample': 0.7779165741793453, 'learning_rate': 0.05045514724031027, 'max_depth': 15, 'min_child_weight': 234, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 49.075711488723755 secs between node start and job finish
+Trial 20 finished with value: 0.95837125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0603566283725928, 'alpha': 0.013202921617301017, 'colsample_bytree': 0.9018834976423802, 'subsample': 0.7814655336915273, 'learning_rate': 0.017546363728531467, 'max_depth': 7, 'min_child_weight': 124, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 174.62229681015015 secs between node start and job finish
+Trial 21 finished with value: 0.9467825 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.010550232460372748, 'alpha': 0.289552035576114, 'colsample_bytree': 0.3050102647178813, 'subsample': 0.8236873027709652, 'learning_rate': 0.011919442193677255, 'max_depth': 11, 'min_child_weight': 40, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 106.64085221290588 secs between node start and job finish
+Trial 22 finished with value: 0.96157625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0029961401909264136, 'alpha': 2.898416696617736, 'colsample_bytree': 0.8557446357723025, 'subsample': 0.6489895634215886, 'learning_rate': 0.05214709562257083, 'max_depth': 13, 'min_child_weight': 109, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 111.2035140991211 secs between node start and job finish
+Trial 23 finished with value: 0.9615375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 8.180400928500983, 'alpha': 1.2326373704329028, 'colsample_bytree': 0.9369354982531612, 'subsample': 0.5942875328935187, 'learning_rate': 0.028080361001036645, 'max_depth': 13, 'min_child_weight': 95, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 88.0010278224945 secs between node start and job finish
+Trial 24 finished with value: 0.96140125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.00532623796235146, 'alpha': 0.043760397028960105, 'colsample_bytree': 0.7534177951809515, 'subsample': 0.49816316368992175, 'learning_rate': 0.04418499349840331, 'max_depth': 13, 'min_child_weight': 147, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 78.80932974815369 secs between node start and job finish
+Trial 25 finished with value: 0.961435 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0010592808555125054, 'alpha': 0.30850468449004065, 'colsample_bytree': 0.8408906867153864, 'subsample': 0.7435547409498282, 'learning_rate': 0.027311380017375327, 'max_depth': 9, 'min_child_weight': 52, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 21.490784883499146 secs between node start and job finish
+Trial 26 finished with value: 0.95355125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.01804754007279991, 'alpha': 1.206639688021768, 'colsample_bytree': 0.9976525988993113, 'subsample': 0.836152532797472, 'learning_rate': 0.05680029506104426, 'max_depth': 3, 'min_child_weight': 18, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 92.43302869796753 secs between node start and job finish
+Trial 27 finished with value: 0.96154125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.1072199785118476, 'alpha': 8.906092408744598, 'colsample_bytree': 0.6771576603537467, 'subsample': 0.7287328933934079, 'learning_rate': 0.09834820145094599, 'max_depth': 13, 'min_child_weight': 175, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 136.82417464256287 secs between node start and job finish
+Trial 28 finished with value: 0.9614775 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.101969879340625, 'alpha': 0.02078068595280146, 'colsample_bytree': 0.8045635332274919, 'subsample': 0.4738871168099546, 'learning_rate': 0.022475859778989055, 'max_depth': 13, 'min_child_weight': 67, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 109.90410161018372 secs between node start and job finish
+Trial 29 finished with value: 0.961575 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.2559158734168961, 'alpha': 3.143118115145711, 'colsample_bytree': 0.9256333094919575, 'subsample': 0.6348334651602364, 'learning_rate': 0.03855302083495827, 'max_depth': 13, 'min_child_weight': 99, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 260.2492389678955 secs between node start and job finish
+Trial 30 finished with value: 0.92521625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0019801083685399954, 'alpha': 0.21553572213861275, 'colsample_bytree': 0.41482011958537646, 'subsample': 0.5720690194695824, 'learning_rate': 0.0033587631041717353, 'max_depth': 17, 'min_child_weight': 195, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 123.90739274024963 secs between node start and job finish
+Trial 31 finished with value: 0.959375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.74276906700934, 'alpha': 0.002051992354074427, 'colsample_bytree': 0.8759429759052796, 'subsample': 0.5293132170829951, 'learning_rate': 0.010465470285652003, 'max_depth': 13, 'min_child_weight': 139, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 89.44741487503052 secs between node start and job finish
+Trial 32 finished with value: 0.961565 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.1292588423963953, 'alpha': 2.2901680610976967, 'colsample_bytree': 0.7129935971725193, 'subsample': 0.828218097579639, 'learning_rate': 0.05795372296071596, 'max_depth': 15, 'min_child_weight': 266, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 98.67552208900452 secs between node start and job finish
+Trial 33 finished with value: 0.96151125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.05712915701824594, 'alpha': 0.8675083525904436, 'colsample_bytree': 0.746259348148561, 'subsample': 0.7850007477419068, 'learning_rate': 0.044949364736333666, 'max_depth': 15, 'min_child_weight': 231, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 135.80734181404114 secs between node start and job finish
+Trial 34 finished with value: 0.9576725 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.33243305608403667, 'alpha': 4.321863012365965, 'colsample_bytree': 0.831950604866363, 'subsample': 0.7209864685600045, 'learning_rate': 0.007018920527185683, 'max_depth': 15, 'min_child_weight': 234, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 20.317864656448364 secs between node start and job finish
+Trial 35 finished with value: 0.95351125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0046620195669697245, 'alpha': 1.8812702405502186, 'colsample_bytree': 0.7789736407755812, 'subsample': 0.6758798571628319, 'learning_rate': 0.07117676803134927, 'max_depth': 3, 'min_child_weight': 213, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 195.56532406806946 secs between node start and job finish
+Trial 36 finished with value: 0.96183375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.1601327648562743, 'alpha': 1.8006958008672065, 'colsample_bytree': 0.6870067125680749, 'subsample': 0.8087261786633421, 'learning_rate': 0.047857488523804066, 'max_depth': 20, 'min_child_weight': 162, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 264.96020674705505 secs between node start and job finish
+Trial 37 finished with value: 0.96123625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.01622482846689876, 'alpha': 0.5432678318409311, 'colsample_bytree': 0.5470574322956372, 'subsample': 0.9971902232262762, 'learning_rate': 0.023707815930104573, 'max_depth': 20, 'min_child_weight': 178, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 177.84899854660034 secs between node start and job finish
+Trial 38 finished with value: 0.96172125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.031677379348448456, 'alpha': 0.3817962506379313, 'colsample_bytree': 0.9513782695031017, 'subsample': 0.8571408039675764, 'learning_rate': 0.07664990052806625, 'max_depth': 20, 'min_child_weight': 159, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 367.6013720035553 secs between node start and job finish
+Trial 39 finished with value: 0.96124125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.008033360710367275, 'alpha': 0.06921331935020893, 'colsample_bytree': 0.6589783955197255, 'subsample': 0.924864888087698, 'learning_rate': 0.015159180615778018, 'max_depth': 20, 'min_child_weight': 126, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 100.80363035202026 secs between node start and job finish
+Trial 40 finished with value: 0.96164125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.0015994091600924861, 'alpha': 0.1259626852870396, 'colsample_bytree': 0.6005603308227054, 'subsample': 0.8005423557035622, 'learning_rate': 0.03413353552505703, 'max_depth': 9, 'min_child_weight': 18, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 28.270190954208374 secs between node start and job finish
+Trial 41 finished with value: 0.9593125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.17105781025706313, 'alpha': 4.862488108746994, 'colsample_bytree': 0.8067863722653821, 'subsample': 0.6584902375075044, 'learning_rate': 0.0646476700231842, 'max_depth': 5, 'min_child_weight': 165, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 156.42995071411133 secs between node start and job finish
+Trial 42 finished with value: 0.9616225 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.06155522348220086, 'alpha': 0.3139602932995065, 'colsample_bytree': 0.9652682698673821, 'subsample': 0.8597480779554217, 'learning_rate': 0.08259281593557115, 'max_depth': 20, 'min_child_weight': 203, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 177.18163394927979 secs between node start and job finish
+Trial 43 finished with value: 0.9614625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.024628799322399607, 'alpha': 0.7849668722544915, 'colsample_bytree': 0.8861463516376136, 'subsample': 0.8597890340853888, 'learning_rate': 0.0999895557209744, 'max_depth': 20, 'min_child_weight': 156, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 202.66317057609558 secs between node start and job finish
+Trial 44 finished with value: 0.96173375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.03825413486815833, 'alpha': 1.593154620325143, 'colsample_bytree': 0.9645301149419643, 'subsample': 0.9108658086536937, 'learning_rate': 0.07598993934904845, 'max_depth': 20, 'min_child_weight': 131, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 153.67526483535767 secs between node start and job finish
+Trial 45 finished with value: 0.96180625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.5830692883481172, 'alpha': 0.0020275946925316923, 'colsample_bytree': 0.9161000616558603, 'subsample': 0.9659376776380331, 'learning_rate': 0.043458690177657806, 'max_depth': 17, 'min_child_weight': 135, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 246.84812879562378 secs between node start and job finish
+Trial 46 finished with value: 0.9614925 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.6130760522855181, 'alpha': 0.0028440804694724745, 'colsample_bytree': 0.44081089100198206, 'subsample': 0.9550956786581304, 'learning_rate': 0.039212470661077005, 'max_depth': 17, 'min_child_weight': 104, 'eval_metric': 'mlogloss'}. Best is trial 1 with value: 0.9618475.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 191.57640147209167 secs between node start and job finish
+Trial 47 finished with value: 0.96186625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.2824073597706303, 'alpha': 0.0017118871566921782, 'colsample_bytree': 0.9073157391816552, 'subsample': 0.7488156002802726, 'learning_rate': 0.03145737431462082, 'max_depth': 17, 'min_child_weight': 87, 'eval_metric': 'mlogloss'}. Best is trial 47 with value: 0.96186625.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 485.8516855239868 secs between node start and job finish
+Trial 48 finished with value: 0.95106625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.121988913064148, 'alpha': 0.0017452032393967206, 'colsample_bytree': 0.9166524767901106, 'subsample': 0.7443766011264809, 'learning_rate': 0.0014976924990883261, 'max_depth': 17, 'min_child_weight': 83, 'eval_metric': 'mlogloss'}. Best is trial 47 with value: 0.96186625.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 225.05682802200317 secs between node start and job finish
+Trial 49 finished with value: 0.96184625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.4235555656128118, 'alpha': 0.006215543071833973, 'colsample_bytree': 0.8784309574354628, 'subsample': 0.7117031472708278, 'learning_rate': 0.029975309608450018, 'max_depth': 17, 'min_child_weight': 66, 'eval_metric': 'mlogloss'}. Best is trial 47 with value: 0.96186625.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 251.70653104782104 secs between node start and job finish
+Trial 50 finished with value: 0.96193375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.5143319830170905, 'alpha': 0.006013245412991147, 'colsample_bytree': 0.8698326015539021, 'subsample': 0.7181986777668882, 'learning_rate': 0.030577004978762336, 'max_depth': 17, 'min_child_weight': 54, 'eval_metric': 'mlogloss'}. Best is trial 50 with value: 0.96193375.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 270.49698972702026 secs between node start and job finish
+Trial 51 finished with value: 0.96191375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.685771308045721, 'alpha': 0.007468704336243512, 'colsample_bytree': 0.8675256853947948, 'subsample': 0.7107780071522062, 'learning_rate': 0.022847004180600983, 'max_depth': 17, 'min_child_weight': 52, 'eval_metric': 'mlogloss'}. Best is trial 50 with value: 0.96193375.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 253.86952900886536 secs between node start and job finish
+Trial 52 finished with value: 0.96187375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.8486599175768714, 'alpha': 0.005808640338054633, 'colsample_bytree': 0.8692796348642485, 'subsample': 0.7022603203508138, 'learning_rate': 0.023111448183585466, 'max_depth': 17, 'min_child_weight': 57, 'eval_metric': 'mlogloss'}. Best is trial 50 with value: 0.96193375.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 252.3053891658783 secs between node start and job finish
+Trial 53 finished with value: 0.9619325 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.697181449330761, 'alpha': 0.006777644255674221, 'colsample_bytree': 0.8693132618253779, 'subsample': 0.7086928056436335, 'learning_rate': 0.02320484737829891, 'max_depth': 17, 'min_child_weight': 58, 'eval_metric': 'mlogloss'}. Best is trial 50 with value: 0.96193375.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 378.752685546875 secs between node start and job finish
+Trial 54 finished with value: 0.9619925 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.940277960700519, 'alpha': 0.007609457975584565, 'colsample_bytree': 0.8160278370924182, 'subsample': 0.693223328692193, 'learning_rate': 0.02257178510488173, 'max_depth': 17, 'min_child_weight': 30, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 279.0869617462158 secs between node start and job finish
+Trial 55 finished with value: 0.9618925 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.8635722819333664, 'alpha': 0.010137954372183823, 'colsample_bytree': 0.823833272608218, 'subsample': 0.6901599386654832, 'learning_rate': 0.02126115534416013, 'max_depth': 17, 'min_child_weight': 53, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 372.8588876724243 secs between node start and job finish
+Trial 56 finished with value: 0.96194125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.77102236784429, 'alpha': 0.010821530827129531, 'colsample_bytree': 0.8107462539162887, 'subsample': 0.6831033872528007, 'learning_rate': 0.021894181131522226, 'max_depth': 17, 'min_child_weight': 30, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 363.17630195617676 secs between node start and job finish
+Trial 57 finished with value: 0.96187625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 6.973871613205054, 'alpha': 0.012396340662127492, 'colsample_bytree': 0.8116266993776502, 'subsample': 0.6259675577422811, 'learning_rate': 0.01592318435570348, 'max_depth': 17, 'min_child_weight': 31, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 494.17603516578674 secs between node start and job finish
+Trial 58 finished with value: 0.96160875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.427410324761683, 'alpha': 0.01984586568845957, 'colsample_bytree': 0.7468739343149677, 'subsample': 0.6860490192404975, 'learning_rate': 0.012118061129664568, 'max_depth': 17, 'min_child_weight': 26, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 849.7357416152954 secs between node start and job finish
+Trial 59 finished with value: 0.96195625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.3794417932605634, 'alpha': 0.007992233760606407, 'colsample_bytree': 0.7817517740293707, 'subsample': 0.6715658319982133, 'learning_rate': 0.020586350653541082, 'max_depth': 17, 'min_child_weight': 7, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 1862.7365872859955 secs between node start and job finish
+Trial 60 finished with value: 0.96172125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.067848866379246, 'alpha': 0.0040215488984261406, 'colsample_bytree': 0.7748570761086753, 'subsample': 0.5873616772755776, 'learning_rate': 0.01834314832463504, 'max_depth': 17, 'min_child_weight': 1, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 186.1765775680542 secs between node start and job finish
+Trial 61 finished with value: 0.9609325 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 9.671040356966131, 'alpha': 0.023502732116847086, 'colsample_bytree': 0.8537269788430988, 'subsample': 0.7600425816575828, 'learning_rate': 0.013323616170830943, 'max_depth': 11, 'min_child_weight': 14, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 291.65315222740173 secs between node start and job finish
+Trial 62 finished with value: 0.9618625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.319538512284025, 'alpha': 0.008711742469239411, 'colsample_bytree': 0.8219899008586922, 'subsample': 0.6651605436616667, 'learning_rate': 0.02175588124469507, 'max_depth': 17, 'min_child_weight': 46, 'eval_metric': 'mlogloss'}. Best is trial 54 with value: 0.9619925.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 382.0769028663635 secs between node start and job finish
+Trial 63 finished with value: 0.96203625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.350793666348118, 'alpha': 0.00991983988882112, 'colsample_bytree': 0.7816844698589962, 'subsample': 0.6975416999737191, 'learning_rate': 0.01849774244175229, 'max_depth': 17, 'min_child_weight': 32, 'eval_metric': 'mlogloss'}. Best is trial 63 with value: 0.96203625.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 374.45957231521606 secs between node start and job finish
+Trial 64 finished with value: 0.9621175 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.12531971843861, 'alpha': 0.0031471370897995124, 'colsample_bytree': 0.7878337010712406, 'subsample': 0.7283387153189949, 'learning_rate': 0.02611067369532252, 'max_depth': 17, 'min_child_weight': 30, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 335.31489610671997 secs between node start and job finish
+Trial 65 finished with value: 0.96192875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.162855085357866, 'alpha': 0.003098006740450175, 'colsample_bytree': 0.7769834343716205, 'subsample': 0.6484821605617016, 'learning_rate': 0.027807298209196685, 'max_depth': 17, 'min_child_weight': 32, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 57.56613636016846 secs between node start and job finish
+Trial 66 finished with value: 0.95801125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.9971571320740065, 'alpha': 0.02943426554300203, 'colsample_bytree': 0.7324439408646215, 'subsample': 0.7242259129031609, 'learning_rate': 0.01607033347856395, 'max_depth': 7, 'min_child_weight': 10, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 317.0530505180359 secs between node start and job finish
+Trial 67 finished with value: 0.96187375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.87379935790713, 'alpha': 0.015211577719481584, 'colsample_bytree': 0.7947656912015932, 'subsample': 0.6079882815970215, 'learning_rate': 0.019698383561654847, 'max_depth': 17, 'min_child_weight': 41, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 543.9914193153381 secs between node start and job finish
+Trial 68 finished with value: 0.96121875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 6.993247543044325, 'alpha': 0.004748898757065304, 'colsample_bytree': 0.7694499846630306, 'subsample': 0.6367844415530567, 'learning_rate': 0.009546404539982343, 'max_depth': 17, 'min_child_weight': 21, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 32.01062846183777 secs between node start and job finish
+Trial 69 finished with value: 0.9561025 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.8365039674251931, 'alpha': 0.0028722632706440036, 'colsample_bytree': 0.701816911668482, 'subsample': 0.672536764057238, 'learning_rate': 0.025874574324101455, 'max_depth': 5, 'min_child_weight': 33, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 836.9497451782227 secs between node start and job finish
+Trial 70 finished with value: 0.9619225 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.1381675419877038, 'alpha': 0.015490543444736462, 'colsample_bytree': 0.8448241296393798, 'subsample': 0.738629903439703, 'learning_rate': 0.017929031471054152, 'max_depth': 17, 'min_child_weight': 8, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 305.9527642726898 secs between node start and job finish
+Trial 71 finished with value: 0.96138875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.2045971215032925, 'alpha': 0.03169075044500631, 'colsample_bytree': 0.7339675293621387, 'subsample': 0.6997637850785774, 'learning_rate': 0.013460231046804438, 'max_depth': 17, 'min_child_weight': 62, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 206.1133270263672 secs between node start and job finish
+Trial 72 finished with value: 0.96179 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.4541160842375085, 'alpha': 0.00334205809258776, 'colsample_bytree': 0.7913787815417984, 'subsample': 0.6505825766458885, 'learning_rate': 0.026857579838271455, 'max_depth': 17, 'min_child_weight': 75, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 392.39970684051514 secs between node start and job finish
+Trial 73 finished with value: 0.96195375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.5797664222676788, 'alpha': 0.001180803307437054, 'colsample_bytree': 0.7606291858843766, 'subsample': 0.7586791168002032, 'learning_rate': 0.034313290226309384, 'max_depth': 17, 'min_child_weight': 28, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 21.628474235534668 secs between node start and job finish
+Trial 74 finished with value: 0.9478725 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 1.6241288425854874, 'alpha': 0.005177435261691365, 'colsample_bytree': 0.7660073318319874, 'subsample': 0.7639739434410675, 'learning_rate': 0.03447411546249941, 'max_depth': 3, 'min_child_weight': 23, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 288.17762541770935 secs between node start and job finish
+Trial 75 finished with value: 0.961975 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 2.3465022154127855, 'alpha': 0.007459866303280846, 'colsample_bytree': 0.8284633499642204, 'subsample': 0.7346772974102249, 'learning_rate': 0.0313384014384018, 'max_depth': 17, 'min_child_weight': 44, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 298.7961115837097 secs between node start and job finish
+Trial 76 finished with value: 0.96189 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.8742110283630625, 'alpha': 0.0011108478690755239, 'colsample_bytree': 0.8187247957122236, 'subsample': 0.7349263851061857, 'learning_rate': 0.03187743249633718, 'max_depth': 17, 'min_child_weight': 44, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 305.520583152771 secs between node start and job finish
+Trial 77 finished with value: 0.961995 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.108634710152548, 'alpha': 0.009854506332610018, 'colsample_bytree': 0.7924667102652916, 'subsample': 0.7826334511782115, 'learning_rate': 0.03736569072364405, 'max_depth': 11, 'min_child_weight': 1, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 201.0725257396698 secs between node start and job finish
+Trial 78 finished with value: 0.9620275 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.3239773637741905, 'alpha': 0.011933592631285876, 'colsample_bytree': 0.7896184129841748, 'subsample': 0.7725902951037399, 'learning_rate': 0.03896500368412254, 'max_depth': 11, 'min_child_weight': 7, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 270.13008522987366 secs between node start and job finish
+Trial 79 finished with value: 0.9618925 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 6.745352831814404, 'alpha': 0.008322493800309333, 'colsample_bytree': 0.724062062805291, 'subsample': 0.7874827076227636, 'learning_rate': 0.060279012093204534, 'max_depth': 11, 'min_child_weight': 2, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 188.1488435268402 secs between node start and job finish
+Trial 80 finished with value: 0.96194625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 9.637518529103964, 'alpha': 0.002216645227825684, 'colsample_bytree': 0.7533734343615383, 'subsample': 0.7575218403519828, 'learning_rate': 0.04063003406095279, 'max_depth': 11, 'min_child_weight': 8, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 156.32844185829163 secs between node start and job finish
+Trial 81 finished with value: 0.9620025 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.423517682846027, 'alpha': 0.0038230163532828186, 'colsample_bytree': 0.6857911611435642, 'subsample': 0.7735880236252053, 'learning_rate': 0.05193563714779194, 'max_depth': 11, 'min_child_weight': 18, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 152.57184839248657 secs between node start and job finish
+Trial 82 finished with value: 0.96201125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.595376496445286, 'alpha': 0.004067144240404101, 'colsample_bytree': 0.6842079300888142, 'subsample': 0.8142348658776929, 'learning_rate': 0.05555797655641463, 'max_depth': 11, 'min_child_weight': 20, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 167.97528791427612 secs between node start and job finish
+Trial 83 finished with value: 0.96201875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.218344963866935, 'alpha': 0.003559233743425513, 'colsample_bytree': 0.6396411591439544, 'subsample': 0.8164175857095514, 'learning_rate': 0.05527174786441982, 'max_depth': 11, 'min_child_weight': 15, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 167.4780294895172 secs between node start and job finish
+Trial 84 finished with value: 0.96203375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.421545738640065, 'alpha': 0.0039032430102159616, 'colsample_bytree': 0.6029273564297778, 'subsample': 0.8069803479271223, 'learning_rate': 0.05723464719492113, 'max_depth': 11, 'min_child_weight': 15, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 160.65507173538208 secs between node start and job finish
+Trial 85 finished with value: 0.9619675 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.311987899018748, 'alpha': 0.003981372962908129, 'colsample_bytree': 0.6237172894382238, 'subsample': 0.8095858474045262, 'learning_rate': 0.05221868251999751, 'max_depth': 11, 'min_child_weight': 18, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 165.40475344657898 secs between node start and job finish
+Trial 86 finished with value: 0.96188125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 6.306885799902297, 'alpha': 0.0023415918017107742, 'colsample_bytree': 0.6427255984677447, 'subsample': 0.8377538836531967, 'learning_rate': 0.05396111659885469, 'max_depth': 11, 'min_child_weight': 16, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 123.93180346488953 secs between node start and job finish
+Trial 87 finished with value: 0.9620275 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 8.310008949878958, 'alpha': 0.0014126804899763864, 'colsample_bytree': 0.6062024232743313, 'subsample': 0.7751612958172084, 'learning_rate': 0.0651431193503784, 'max_depth': 11, 'min_child_weight': 37, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 174.60631155967712 secs between node start and job finish
+Trial 88 finished with value: 0.9619475 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 8.679413385019242, 'alpha': 0.0012975826607224575, 'colsample_bytree': 0.6020199499952927, 'subsample': 0.8190215360784704, 'learning_rate': 0.06350663731219111, 'max_depth': 11, 'min_child_weight': 12, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 129.8314290046692 secs between node start and job finish
+Trial 89 finished with value: 0.9619 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.298927412194197, 'alpha': 0.0037943984830018564, 'colsample_bytree': 0.5732203038455139, 'subsample': 0.7924360906759299, 'learning_rate': 0.048162971640847464, 'max_depth': 11, 'min_child_weight': 39, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 145.1768147945404 secs between node start and job finish
+Trial 90 finished with value: 0.9618475 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 7.706911732101437, 'alpha': 0.0015013957050682746, 'colsample_bytree': 0.6643412026952257, 'subsample': 0.8767419364386406, 'learning_rate': 0.06640541103818881, 'max_depth': 11, 'min_child_weight': 23, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 125.41898226737976 secs between node start and job finish
+Trial 91 finished with value: 0.96196125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.457537964035079, 'alpha': 0.0024687520613761115, 'colsample_bytree': 0.5713734694990248, 'subsample': 0.7731128669307279, 'learning_rate': 0.07180135018690745, 'max_depth': 11, 'min_child_weight': 36, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 271.151508808136 secs between node start and job finish
+Trial 92 finished with value: 0.9618175 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.34866124215841, 'alpha': 0.005310638821598487, 'colsample_bytree': 0.6401015857444853, 'subsample': 0.837500899087594, 'learning_rate': 0.089042568469928, 'max_depth': 11, 'min_child_weight': 2, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 146.7241232395172 secs between node start and job finish
+Trial 93 finished with value: 0.96196875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 6.223209284171483, 'alpha': 0.004619536743219057, 'colsample_bytree': 0.6976243330588692, 'subsample': 0.8058309534930468, 'learning_rate': 0.04229460331164677, 'max_depth': 11, 'min_child_weight': 24, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 172.94767951965332 secs between node start and job finish
+Trial 94 finished with value: 0.96205 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.837587205660655, 'alpha': 0.0033163059194825095, 'colsample_bytree': 0.6801322887285366, 'subsample': 0.7835398448117192, 'learning_rate': 0.03769039558380111, 'max_depth': 11, 'min_child_weight': 14, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 166.47235751152039 secs between node start and job finish
+Trial 95 finished with value: 0.962 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.589144699630067, 'alpha': 0.0016877019508269504, 'colsample_bytree': 0.6786123141790288, 'subsample': 0.7732248488316562, 'learning_rate': 0.0565673335611591, 'max_depth': 11, 'min_child_weight': 14, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 169.4263141155243 secs between node start and job finish
+Trial 96 finished with value: 0.96202375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 4.791548466281143, 'alpha': 0.0016353780945244443, 'colsample_bytree': 0.6704382744728925, 'subsample': 0.8227998785288482, 'learning_rate': 0.05759262425220003, 'max_depth': 11, 'min_child_weight': 14, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 122.36979103088379 secs between node start and job finish
+Trial 97 finished with value: 0.96189375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.845593980673801, 'alpha': 0.0027647978024185563, 'colsample_bytree': 0.6096650863697557, 'subsample': 0.8475847630335448, 'learning_rate': 0.048104778910037595, 'max_depth': 11, 'min_child_weight': 49, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 126.56254076957703 secs between node start and job finish
+Trial 98 finished with value: 0.9618575 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 8.10793175081972, 'alpha': 0.0014920870653706453, 'colsample_bytree': 0.48506403295782263, 'subsample': 0.817205075425248, 'learning_rate': 0.08396095933710822, 'max_depth': 11, 'min_child_weight': 36, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 97.65410017967224 secs between node start and job finish
+Trial 99 finished with value: 0.96190625 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 3.598013782618804, 'alpha': 0.00342244411567781, 'colsample_bytree': 0.5878598368319683, 'subsample': 0.7923330655038252, 'learning_rate': 0.06107232746501673, 'max_depth': 9, 'min_child_weight': 14, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 149.36304330825806 secs between node start and job finish
+Trial 100 finished with value: 0.96203875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 9.789723402004343, 'alpha': 0.0021229130362147, 'colsample_bytree': 0.6601484212308459, 'subsample': 0.8274062959247925, 'learning_rate': 0.051368471196492814, 'max_depth': 11, 'min_child_weight': 21, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 141.29833054542542 secs between node start and job finish
+Trial 101 finished with value: 0.96202375 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 8.013539889268602, 'alpha': 0.0020287817108742786, 'colsample_bytree': 0.6314182239311028, 'subsample': 0.8995378605619914, 'learning_rate': 0.06887657642577469, 'max_depth': 11, 'min_child_weight': 26, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 145.41898322105408 secs between node start and job finish
+Trial 102 finished with value: 0.9620575 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 9.826714594739963, 'alpha': 0.002133101405478431, 'colsample_bytree': 0.6315817877829176, 'subsample': 0.8719197225720402, 'learning_rate': 0.06933111434611613, 'max_depth': 11, 'min_child_weight': 23, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 137.7255392074585 secs between node start and job finish
+Trial 103 finished with value: 0.9619775 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 9.547737372860457, 'alpha': 0.0010158228900617986, 'colsample_bytree': 0.6651930477739559, 'subsample': 0.9273349193963922, 'learning_rate': 0.07867582239588947, 'max_depth': 11, 'min_child_weight': 27, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 191.4567437171936 secs between node start and job finish
+Trial 104 finished with value: 0.96193 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 7.6750191396897804, 'alpha': 0.0019403966831397417, 'colsample_bytree': 0.6292976355960886, 'subsample': 0.8724931272465137, 'learning_rate': 0.06844884969355657, 'max_depth': 11, 'min_child_weight': 9, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 50.16094183921814 secs between node start and job finish
+Trial 105 finished with value: 0.96095125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 5.873975542026398, 'alpha': 0.0014653068339448834, 'colsample_bytree': 0.541165021502041, 'subsample': 0.9027867192468728, 'learning_rate': 0.044864801492640334, 'max_depth': 7, 'min_child_weight': 37, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 138.49475502967834 secs between node start and job finish
+Trial 106 finished with value: 0.96181875 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 7.851896968666144, 'alpha': 0.0025402695643594983, 'colsample_bytree': 0.6503469899138818, 'subsample': 0.8770870012766886, 'learning_rate': 0.09030074955023336, 'max_depth': 11, 'min_child_weight': 25, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
+start listen on 10.110.42.38:9091
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+@tracker 215.149231672287 secs between node start and job finish
+Trial 107 finished with value: 0.9620975 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 6.781630290543998, 'alpha': 0.002063404533461046, 'colsample_bytree': 0.5755705239268514, 'subsample': 0.8490884731374361, 'learning_rate': 0.059534117126813065, 'max_depth': 11, 'min_child_weight': 6, 'eval_metric': 'mlogloss'}. Best is trial 64 with value: 0.9621175.
