@@ -1,0 +1,12 @@
+A new study created in RDB with name: dec_2021_test_1000
+Start optimization.
+start listen on 192.168.1.101:59299
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 0.93893125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.009757304439210726, 'alpha': 0.25715163713658046, 'colsample_bytree': 0.6136356077137722, 'subsample': 0.6154300969984513, 'learning_rate': 0.0018163236499047098, 'max_depth': 20, 'min_child_weight': 261, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.93893125.
+start listen on 192.168.1.101:58717
+@tracker All of 3 nodes getting started
+@tracker All nodes finishes job
+Trial 1 finished with value: 0.90270125 and parameters: {'objective': 'multi:softprob', 'num_class': 6, 'tree_method': 'gpu_hist', 'lambda': 0.2808065124866331, 'alpha': 0.019289495370771917, 'colsample_bytree': 0.5576220983504241, 'subsample': 0.49610471769499337, 'learning_rate': 0.0011111262271843768, 'max_depth': 3, 'min_child_weight': 19, 'eval_metric': 'mlogloss'}. Best is trial 0 with value: 0.93893125.
+start listen on 192.168.1.101:48443
+@tracker All of 3 nodes getting started
